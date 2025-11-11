@@ -1,7 +1,11 @@
-#content {
-    color: blue;
+#header {
+    background-color: red;
 }
 
 .second-content {
     color: green;
+}
+
+#main {
+    background-color: yellow;
 }
